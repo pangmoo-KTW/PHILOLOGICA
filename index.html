@@ -2,23 +2,56 @@
 <html>
 	<head>
 		<style>
+			%fonts
 			@import url('https://fonts.googleapis.com/css2?family=Gothic+A1:wght@500&family=Rubik+Iso&display=swap');
-			#font1{
+			%container
+			.container{
+				display:flex;
+				flex-direction:column;
+			}
+			header{
+				border-bottom:1px solid tomato;
+				padding-left:20px;
+				text-align:center;
 				font-family: 'Rubik Iso', cursive;
 			}
-			#font2{
+			footer{
+				border-top:1px solid gray;
+				padding:20px;
+				text-align:center;
+			}
+			.content{
+				display:flex;
 				font-family: 'Gothic A1', sans-serif;
 				font-size: 1.5em;
 			}
-			div{
-				border:5px solid gray;
+			.content nav{
+				border-right:1px solid gray;
+			}
+			main{
+				padding:10px;
 			}
 		</style>
 	</head>
 	<body>
-		<h1><p id="font1">PHILOLOGICA</p></h1>
-		<div><p id="font2">
-			Which means <u>테스트</u> in Korean.
-		</p></div>
+		<div class="container">
+			<header>
+				<h1>PHILOLOGICA</h1>
+			</header>
+			<section class="content">
+				<nav>
+					<ul>
+						<li>ex1</li>
+						<li>ex2</li>
+						<li>ex3</li>
+					</ul>
+				</nav>
+				<main>
+					Which means <u>테스트</u> in Korean.
+				</main>
+			</section>
+		<footer>
+			바닥글
+		</footer>
 	</body>
 </html>
