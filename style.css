@@ -1,8 +1,10 @@
 		@import url('https://fonts.googleapis.com/css2?family=Hahmlet&family=Vollkorn:ital,wght@1,500&display=swap');
+		.font{
+			font-family: 'Vollkorn', 'Hahmlet', serif;
+		}
 		.container{
 			display:flex;
 			flex-direction:column;
-			font-family: 'Vollkorn', 'Hahmlet', serif;
 		}
 		header{
 			border-bottom:1px solid gray;
