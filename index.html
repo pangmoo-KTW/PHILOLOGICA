@@ -7,11 +7,14 @@
 		#font1{
 			font-family: 'Rubik Iso', cursive;
 		}
+		#font2{
+			font-family: 'Gothic A1', sans-serif;
+			font-size: 1.5em
+		}
 		%container
 		.container{
 			display:flex;
 			flex-direction:column;
-			font-family: 'Rubik Iso', cursive;
 		}
 		header{
 			border-bottom:1px solid tomato;
@@ -24,11 +27,9 @@
 		}
 		.content{
 			display:flex;
-			font-family: 'Gothic A1', sans-serif;
 		}
 		.content nav{
 			border-right:1px solid gray;
-			font-size: 2em;
 		}
 		main{
 			padding:10px;
@@ -39,17 +40,17 @@
 <body>
 	<div class="container">
 		<header>
-			<h1>PHILOLOGICA</h1>
+			<h1 id="font1">PHILOLOGICA</h1>
 		</header>
 		<section class="content">
-			<nav>
+			<nav id="font2">
 				<ul>
 					<li>ex1</li>
 					<li>ex2</li>
 					<li>ex3</li>
 				</ul>
 			</nav>
-			<main>
+			<main id="font2">
 				Which means <u>테스트</u> in Korean.
 			</main>
 		</section>
