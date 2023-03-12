@@ -1,9 +1,9 @@
-		@import url('https://fonts.googleapis.com/css2?family=Hahmlet&family=Libre+Barcode+128+Text&display=swap');
+		@import url('https://fonts.googleapis.com/css2?family=Hahmlet&family=Rubik+Glitch&display=swap');
 		.font{
 			font-family: 'Hahmlet', serif;
 		}
 		.titleFont{
-			font-family: 'Libre Barcode 128 Text', cursive;
+			font-family: 'Rubik Glitch', cursive;
 		}
 		.container{
 			display:flex;
