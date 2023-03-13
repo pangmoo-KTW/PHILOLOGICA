@@ -13,14 +13,14 @@
 			flex-direction:column;
 		}
 		header{
-			border-bottom:3px solid cyan;
+			border-bottom:5px solid cyan;
 			padding:20px;
-			text-align:right;
+			text-align:center;
 			background-image: url("langage.gif");
 			color: cyan;
 		}
 		footer{
-			border-top:3px solid cyan;
+			border-top:5px solid cyan;
 			padding:20px;	
 			text-align:center;
 			color: cyan;
@@ -30,9 +30,10 @@
 			display:flex;
 		}
 		.content nav{
-			border-right:3px solid cyan;
-			padding:20px;
+			border-right:5px solid cyan;
+			padding:10px;
 			background-image: url("red.jpg");
+			font-size:2em;
 			color: cyan;
 		}
 		main{
