@@ -3,7 +3,7 @@
 			background-color: black;
 		}
 		.font{
-			font-family: 'Alemendra', 'Hahmlet', serif;
+			font-family: 'Hahmlet', serif;
 		}
 		.titleFont{
 			font-family: 'Almendra', serif;
@@ -15,7 +15,7 @@
 		header{
 			border-bottom:5px solid cyan;
 			padding:20px;
-			text-align:right;
+			text-align:left;
 			background-image: url("langage.gif");
 			color: cyan;
 		}
