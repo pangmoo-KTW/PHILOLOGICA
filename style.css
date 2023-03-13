@@ -23,6 +23,7 @@
 			border-top:3px solid cyan;
 			padding:20px;	
 			text-align:center;
+			color: cyan;
 		}
 		.content{
 			font-size:1.5em;
@@ -36,4 +37,5 @@
 		}
 		main{
 			padding:10px;
+			background-color: white;
 		}
