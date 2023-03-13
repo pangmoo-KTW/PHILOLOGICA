@@ -28,6 +28,8 @@
 		.content nav{
 			border-right:1px solid gray;
 			padding:20px;
+			background-image: url("red.jpg");
+			color: cyan;
 		}
 		main{
 			padding:10px;
