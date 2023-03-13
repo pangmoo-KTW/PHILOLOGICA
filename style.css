@@ -1,4 +1,7 @@
 		@import url('https://fonts.googleapis.com/css2?family=Hahmlet&family=Rubik+Glitch&display=swap');
+		body{
+			background-color: black;
+		}
 		.font{
 			font-family: 'Hahmlet', serif;
 		}
@@ -8,17 +11,16 @@
 		.container{
 			display:flex;
 			flex-direction:column;
-			background-color: black;
 		}
 		header{
-			border-bottom:1px solid gray;
+			border-bottom:3px solid cyan;
 			padding:20px;
 			text-align:right;
 			background-image: url("langage.gif");
 			color: cyan;
 		}
 		footer{
-			border-top:1px solid gray;
+			border-top:3px solid cyan;
 			padding:20px;	
 			text-align:center;
 		}
@@ -27,7 +29,7 @@
 			display:flex;
 		}
 		.content nav{
-			border-right:1px solid gray;
+			border-right:3px solid cyan;
 			padding:20px;
 			background-image: url("red.jpg");
 			color: cyan;
