@@ -1,12 +1,12 @@
-		@import url('https://fonts.googleapis.com/css2?family=Hahmlet&family=Rubik+Glitch&display=swap');
+		@import url('https://fonts.googleapis.com/css2?family=Almendra&family=Hahmlet&display=swap');
 		body{
 			background-color: black;
 		}
 		.font{
-			font-family: 'Hahmlet', serif;
+			font-family: 'Alemendra', 'Hahmlet', serif;
 		}
 		.titleFont{
-			font-family: 'Rubik Glitch', cursive;
+			font-family: 'Almendra', serif;
 		}
 		.container{
 			display:flex;
