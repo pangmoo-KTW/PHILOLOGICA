@@ -15,7 +15,7 @@
 		header{
 			border-bottom:5px solid cyan;
 			padding:20px;
-			text-align:center;
+			text-align:right;
 			background-image: url("langage.gif");
 			color: cyan;
 		}
@@ -33,7 +33,7 @@
 			border-right:5px solid cyan;
 			padding:10px;
 			background-image: url("red.jpg");
-			font-size:2em;
+			font-size:1em;
 			color: cyan;
 		}
 		main{
