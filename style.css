@@ -18,6 +18,7 @@
 			text-align:left;
 			background-image: url("langage.gif");
 			color: cyan;
+			font-size:1em;
 		}
 		footer{
 			border-top:5px solid cyan;
