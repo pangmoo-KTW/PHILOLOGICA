@@ -14,14 +14,15 @@
 			flex-direction:column;
 		}
 		header{
-			border-bottom:5px solid royalblue;
-			padding:100px;
-			background-image: url("header.jpg");
-			color: cyan;
+			border-bottom:5px solid crimson;
+			padding:50px;
+			background-image: url("jd.jpg");
+			background-size: cover;
+			color: crimson;
 		}
 		footer{
-			background-color: white;
-			border-top:5px solid royalblue;
+			background-color: crimson;
+			border-top:5px solid crimson;
 			color: black;
 			padding:20px;	
 			text-align:center;
@@ -33,7 +34,7 @@
 		.eContent{
 			font-size:1em;
 			display:flex;
-			border-top:thick double cyan;
+			border-top:thick double darksalmon;
 		}
 		main{
 			padding:10px;
@@ -41,15 +42,15 @@
 			color: black;
 		}
 		a {
-			 color: cyan;
+			 color: crimson;
 			 background: black;
 		}
 		a:link {
-			color: cyan;
+			color: crimson;
 			background: black;
 		}
 		a:visited {
-			color: cyan;
+			color: crimson;
 			background: black;
 		}
 		a:focus {
@@ -57,12 +58,12 @@
 			color:ghostwhite;
 		}
 		a:hover {
-			background: mediumturquoise;
+			background: darksalmon;
 			color: black;
 		}
 		a:active {
 			 background: black;
-			 color:cyan;
+			 color:crimson;
 		}
 		hr {
 			border: none;
