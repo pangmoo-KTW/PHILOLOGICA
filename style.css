@@ -31,9 +31,9 @@
 			display:flex;
 		}
 		.eContent{
-			font-size:1.5em;
+			font-size:1em;
 			display:flex;
-			border-top:royalblue;
+			border-top:5px solid royalblue;
 		}
 		main{
 			padding:10px;
@@ -41,20 +41,20 @@
 			color: black;
 		}
 		a {
-			 color: cyan;
+			 color: white;
 			 background: black;
 		}
 		a:link {
-			color: cyan;
+			color: white;
 			background: black;
 		}
 		a:visited {
-			color: cyan;
+			color: white;
 			background: black;
 		}
 		a:focus {
 			background: black;
-			color:ghostwhite;
+			color:white;
 		}
 		a:hover {
 			background: darksalmon;
@@ -62,7 +62,7 @@
 		}
 		a:active {
 			 background: black;
-			 color:cyan;
+			 color:white;
 		}
 		hr {
 			border: none;
