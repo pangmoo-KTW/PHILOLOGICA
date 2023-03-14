@@ -14,14 +14,14 @@
 			flex-direction:column;
 		}
 		header{
-			border-bottom:5px solid gold;
-			padding:50px;
+			border-bottom:5px solid royalblue;
+			padding:100px;
 			background-image: url("header.jpg");
 			color: cyan;
 		}
 		footer{
 			background-color: white;
-			border-top:5px solid gold;
+			border-top:5px solid royalblue;
 			color: black;
 			padding:20px;	
 			text-align:center;
@@ -33,7 +33,7 @@
 		.eContent{
 			font-size:1em;
 			display:flex;
-			border-top:thick double black;
+			border-top:thick double cyan;
 		}
 		main{
 			padding:10px;
