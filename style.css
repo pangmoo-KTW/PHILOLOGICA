@@ -1,17 +1,17 @@
 		@import url('https://fonts.googleapis.com/css2?family=Almendra&family=Hahmlet&display=swap');
 		body{
-			background-color: white;
+			background-color: gold;
 		}
 		.kFont{
 			font-family: 'Hahmlet', serif;
 		}
-		.eFont{
+		.tFont{
 			font-family: 'Almendra', serif;
 		}
 		.container{
-			padding:20px;
+			padding:30px;
 			display:flex;
-			border:1em;
+			border:1em ridge gold;
 			flex-direction:column;
 		}
 		header{
@@ -34,8 +34,8 @@
 			display:flex;
 		}
 		.eContent{
-			font-size:1em;
-			border-top:1em ridge mediumturquoise;
+			font-size:1.5em;
+			border-top:1em ridge gold;
 		}
 		main{
 			padding:10px;
