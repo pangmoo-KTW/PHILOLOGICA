@@ -21,7 +21,6 @@
 			font-size:1.5em;
 		}
 		footer{
-			border-top:5px solid gold;
 			background-color: white;
 			color: black;
 			padding:20px;	
@@ -57,7 +56,7 @@
 		}
 		a:hover {
 			background: mediumturquoise;
-			color: gold;
+			color: black;
 		}
 		a:active {
 			 background: black;
