@@ -1,6 +1,6 @@
 		@import url('https://fonts.googleapis.com/css2?family=Almendra&family=Hahmlet&display=swap');
 		body{
-			background-color: floralwhite;
+			background-color: whitesmoke;
 		}
 		.kFont{
 			font-family: 'Hahmlet', serif;
@@ -9,20 +9,20 @@
 			font-family: 'Almendra', serif;
 		}
 		.container{
-			padding:10px;
+			padding:0px;
 			display:flex;
 			flex-direction:column;
 		}
 		header{
 			border-bottom:5px solid royalblue;
 			padding:30px;
-			background-image: url("kren.gif");
+			background-color: dodgerblue;
 			color: whitesmoke;
 		}
 		footer{
-			background-color: black;
+			background-color: dodgerblue;
 			border-top:5px solid royalblue;
-			color: dodgerblue;
+			color: whitesmoke;
 			padding:30px;
 		}
 		.content{
@@ -36,24 +36,24 @@
 		}
 		main{
 			padding:10px;
-			background-color: floralwhite;
+			background-color: whitesmoke;
 			color: black;
 		}
 		a {
-			 color: floralwhite;
+			 color: whitesmoke;
 			 background: royalblue;
 		}
 		a:link {
-			color: floralwhite;
+			color: whitesmoke;
 			background: royalblue;
 		}
 		a:visited {
-			color: floralwhite;
+			color: whitesmoke;
 			background: royalblue;
 		}
 		a:focus {
 			background: black;
-			color:floralwhite;
+			color:whitesmoke;
 		}
 		a:hover {
 			background: darksalmon;
@@ -61,19 +61,19 @@
 		}
 		a:active {
 			 background: black;
-			 color:floralwhite;
+			 color:whitesmoke;
 		}
 		hr {
 			border: none;
-			border-top: 3px double #333;
-			color: #333;
+			border-top: 3px double black;
+			color: black;
 			overflow: visible;
 			text-align: center;
 			height: 5px;
 		}
 
 		hr:after {
-			background: #fff;
+			background: whitesmoke;
 			content: '§';
 			padding: 0 4px;
 			position: relative;
