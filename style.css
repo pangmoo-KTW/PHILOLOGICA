@@ -11,12 +11,11 @@
 		.container{
 			padding:30px;
 			display:flex;
-			border:1em ridge gold;
 			flex-direction:column;
 		}
 		header{
 			border-bottom:5px solid gold;
-			padding:20px;
+			padding:0px;
 			text-align:center;
 			background-color: black;
 			color: gold;
