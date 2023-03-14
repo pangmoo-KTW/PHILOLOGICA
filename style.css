@@ -22,6 +22,7 @@
 		}
 		footer{
 			background-color: white;
+			border-top:5px solid gold;
 			color: black;
 			padding:20px;	
 			text-align:center;
