@@ -1,11 +1,11 @@
 		@import url('https://fonts.googleapis.com/css2?family=Almendra&family=Hahmlet&display=swap');
 		body{
-			background-color: black;
+			background-color: ghostwhite;
 		}
-		.font{
+		.kFont{
 			font-family: 'Hahmlet', serif;
 		}
-		.titleFont{
+		.eFont{
 			font-family: 'Almendra', serif;
 		}
 		.container{
@@ -13,31 +13,43 @@
 			flex-direction:column;
 		}
 		header{
-			border-bottom:5px solid cyan;
+			border-bottom:5px solid black;
 			padding:20px;
 			text-align:center;
-			background-image: url("langage.gif");
-			color: cyan;
+			background-color: ghostwhite;
 			font-size:1.5em;
 		}
 		footer{
 			border-top:5px solid cyan;
+			background-color: ghostwhite;
 			padding:20px;	
 			text-align:center;
-			color: cyan;
 		}
 		.content{
 			font-size:1.5em;
 			display:flex;
 		}
-		.content nav{
-			border-right:5px solid cyan;
-			padding:10px;
-			background-image: url("red.jpg");
-			font-size:1em;
-			color: cyan;
-		}
 		main{
 			padding:10px;
-			background-color: white;
+			background-color: ghostwhite;
+		}
+		a {
+			 color: inherit;
+		}
+		a:link {
+			color: gold;
+		}
+		a:visited {
+			color: royalblue;
+		}
+		a:focus {
+			background: black;
+			color:ghostwhite;
+		}
+		a:hover {
+			background: mediumturquoise;
+		}
+		a:active {
+			 background: black;
+			 color:cyan;
 		}
