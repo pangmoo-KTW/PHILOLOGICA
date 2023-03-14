@@ -38,12 +38,15 @@
 		}
 		a {
 			 color: gold;
+			 background: black;
 		}
 		a:link {
 			color: gold;
+			background: black;
 		}
 		a:visited {
 			color: gold;
+			background: black;
 		}
 		a:focus {
 			background: black;
