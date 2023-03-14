@@ -36,6 +36,9 @@
 			background-color: white;
 			color: black;
 		}
+		div{
+			border-bottom:5px solid gold;
+		}
 		a {
 			 color: gold;
 			 background: black;
