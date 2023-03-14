@@ -16,15 +16,15 @@
 		header{
 			border-bottom:5px solid royalblue;
 			padding:40px;
-			background-image: url("header1.jpg");
-			color: white;
+			background-image: url("footer.jpg");
+			color: royalblue;
+			text-align:right;
 		}
 		footer{
-			background-image: url("footer.jpg");
+			background-color: royalblue;
 			border-top:5px solid royalblue;
 			color: white;
-			padding:40px;	
-			text-align:right;
+			padding:30px;	
 		}
 		.content{
 			font-size:1.5em;
@@ -42,15 +42,15 @@
 		}
 		a {
 			 color: white;
-			 background: black;
+			 background: royalblue;
 		}
 		a:link {
 			color: white;
-			background: black;
+			background: royalblue;
 		}
 		a:visited {
 			color: white;
-			background: black;
+			background: royalblue;
 		}
 		a:focus {
 			background: black;
