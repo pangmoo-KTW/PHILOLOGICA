@@ -1,6 +1,6 @@
 		@import url('https://fonts.googleapis.com/css2?family=Almendra&family=Hahmlet&display=swap');
 		body{
-			background-color: white;
+			background-color: floralwhite;
 		}
 		.kFont{
 			font-family: 'Hahmlet', serif;
@@ -16,15 +16,17 @@
 		header{
 			border-bottom:5px solid royalblue;
 			padding:40px;
-			background-image: url("footer.jpg");
-			color: royalblue;
-			text-align:right;
+			background-image: url("header1.jpg");
+			background-size: contain;
+			color: dodgerblue;
 		}
 		footer{
-			background-color: royalblue;
+			background-color: black;
 			border-top:5px solid royalblue;
-			color: white;
-			padding:30px;	
+			color: dodgerblue;
+			padding:40px;
+			background-image: url("footer.jpg");
+			background-size: contain;
 		}
 		.content{
 			font-size:1.5em;
@@ -37,24 +39,24 @@
 		}
 		main{
 			padding:10px;
-			background-color: white;
+			background-color: floralwhite;
 			color: black;
 		}
 		a {
-			 color: white;
+			 color: floralwhite;
 			 background: royalblue;
 		}
 		a:link {
-			color: white;
+			color: floralwhite;
 			background: royalblue;
 		}
 		a:visited {
-			color: white;
+			color: floralwhite;
 			background: royalblue;
 		}
 		a:focus {
 			background: black;
-			color:white;
+			color:floralwhite;
 		}
 		a:hover {
 			background: darksalmon;
@@ -62,7 +64,7 @@
 		}
 		a:active {
 			 background: black;
-			 color:white;
+			 color:floralwhite;
 		}
 		hr {
 			border: none;
