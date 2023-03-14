@@ -32,6 +32,9 @@
 			font-size:1.5em;
 			display:flex;
 		}
+		.eContent{
+			border-top:5px solid mediumturquoise;
+		}
 		main{
 			padding:10px;
 			background-color: white;
@@ -75,5 +78,5 @@
 			content: '§';
 			padding: 0 4px;
 			position: relative;
-			top: -13px;
+			top: -1em;
 		}
