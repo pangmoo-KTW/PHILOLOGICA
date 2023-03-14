@@ -15,18 +15,15 @@
 		}
 		header{
 			border-bottom:5px solid royalblue;
-			padding:40px;
-			background-image: url("header1.jpg");
-			background-size: contain;
-			color: dodgerblue;
+			padding:30px;
+			background-image: url("kren.gif");
+			color: whitesmoke;
 		}
 		footer{
 			background-color: black;
 			border-top:5px solid royalblue;
 			color: dodgerblue;
-			padding:40px;
-			background-image: url("footer.jpg");
-			background-size: contain;
+			padding:30px;
 		}
 		.content{
 			font-size:1.5em;
