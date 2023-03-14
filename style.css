@@ -5,7 +5,7 @@
 		.kFont{
 			font-family: 'Hahmlet', serif;
 		}
-		.tFont{
+		.eFont{
 			font-family: 'Almendra', serif;
 		}
 		.container{
@@ -16,10 +16,8 @@
 		header{
 			border-bottom:5px solid gold;
 			padding:30px;
-			text-align:center;
-			background-color: black;
-			color: gold;
-			font-size:1.5em;
+			background-image: url("header.jpg");
+			color: cyan;
 		}
 		footer{
 			background-color: white;
@@ -35,7 +33,7 @@
 		.eContent{
 			font-size:1em;
 			display:flex;
-			border-top:1em ridge gold;
+			border-top:thick double black;
 		}
 		main{
 			padding:10px;
@@ -43,15 +41,15 @@
 			color: black;
 		}
 		a {
-			 color: gold;
+			 color: cyan;
 			 background: black;
 		}
 		a:link {
-			color: gold;
+			color: cyan;
 			background: black;
 		}
 		a:visited {
-			color: gold;
+			color: cyan;
 			background: black;
 		}
 		a:focus {
