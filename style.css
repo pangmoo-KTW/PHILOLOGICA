@@ -17,23 +17,21 @@
 			border-bottom:5px solid royalblue;
 			padding:40px;
 			background-image: url("header1.jpg");
-			background: black;
-			color: cyan;
+			color: white;
 		}
 		footer{
 			background-image: url("footer.jpg");
-			border-top:5px solid crimson;
-			background: black;
-			color: cyan;
+			border-top:5px solid royalblue;
+			color: white;
 			padding:40px;	
 			text-align:right;
 		}
 		.content{
-			font-size:1em;
+			font-size:1.5em;
 			display:flex;
 		}
 		.eContent{
-			font-size:1em;
+			font-size:1.5em;
 			display:flex;
 			border-top:royalblue;
 		}
