@@ -1,6 +1,6 @@
 		@import url('https://fonts.googleapis.com/css2?family=Almendra&family=Hahmlet&display=swap');
 		body{
-			background-color: gold;
+			background-color: white;
 		}
 		.kFont{
 			font-family: 'Hahmlet', serif;
@@ -9,13 +9,13 @@
 			font-family: 'Almendra', serif;
 		}
 		.container{
-			padding:30px;
+			padding:10px;
 			display:flex;
 			flex-direction:column;
 		}
 		header{
 			border-bottom:5px solid gold;
-			padding:0px;
+			padding:30px;
 			text-align:center;
 			background-color: black;
 			color: gold;
@@ -33,7 +33,8 @@
 			display:flex;
 		}
 		.eContent{
-			font-size:2em;
+			font-size:1em;
+			display:flex;
 			border-top:1em ridge gold;
 		}
 		main{
