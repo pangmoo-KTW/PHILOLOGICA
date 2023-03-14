@@ -15,15 +15,15 @@
 		}
 		header{
 			border-bottom:5px solid royalblue;
-			padding:30px;
-			background-color: dodgerblue;
+			padding:10px;
+			background-color: black;
 			color: whitesmoke;
 		}
 		footer{
-			background-color: dodgerblue;
+			background-color: black;
 			border-top:5px solid royalblue;
 			color: whitesmoke;
-			padding:30px;
+			padding:10px;
 		}
 		.content{
 			font-size:1.5em;
