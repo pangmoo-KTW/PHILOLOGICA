@@ -49,4 +49,10 @@
 		}
 		details{
 			background: ghostwhite;
+			border: 5px solid palegreen;
+			padding: 20px;
+		}
+		summary{
+			background: palegoldenrod;
+			color:sandybrown;
 		}
