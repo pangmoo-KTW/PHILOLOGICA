@@ -19,7 +19,7 @@
 			padding:10px;
 		}
 		.content{
-			font-size:1.5em;
+			font-size:2em;
 			color:black;
 			border-top:5px solid royalblue;
 		}
@@ -47,7 +47,8 @@
 			 background: black;
 			 color:whitesmoke;
 		}
-		summary{
+		details{
 			border:5px solid cyan;
-			padding:5px;
+			font-size:1.5em;
+			background: ghostwhite;
 		}
