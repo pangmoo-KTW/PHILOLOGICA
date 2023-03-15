@@ -28,12 +28,10 @@
 		}
 		.kContent{
 			font-size:1em;
-			display:flex;
 			color:black;
 		}
 		.eContent{
 			font-size:1em;
-			display:flex;
 			border-top:5px solid royalblue;
 			color:black;
 		}
