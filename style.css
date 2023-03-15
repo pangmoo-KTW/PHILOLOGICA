@@ -24,15 +24,15 @@
 			border-top:5px solid royalblue;
 		}
 		a {
-			 color: whitesmoke;
+			 color: palegreen;
 			 background: black;
 		}
 		a:link {
-			color: whitesmoke;
+			color: palegreen;
 			background: black;
 		}
 		a:visited {
-			color: whitesmoke;
+			color: palegreen;
 			background: black;
 		}
 		a:focus {
