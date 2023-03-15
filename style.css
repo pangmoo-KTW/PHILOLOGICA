@@ -2,7 +2,7 @@
 		body{
 			background-color: whitesmoke;
 		}
-		.kFont{
+		.font{
 			font-family: 'Hahmlet', serif;
 		}
 		.eFont{
@@ -26,14 +26,16 @@
 			color: whitesmoke;
 			padding:10px;
 		}
-		.content{
-			font-size:1.5em;
+		.kContent{
+			font-size:1em;
 			display:flex;
+			color:black;
 		}
 		.eContent{
 			font-size:1em;
 			display:flex;
 			border-top:5px solid royalblue;
+			color:black;
 		}
 		main{
 			padding:10px;
@@ -79,4 +81,7 @@
 			padding: 0 4px;
 			position: relative;
 			top: -1em;
+		}
+		p{
+			text-indent: 4em;
 		}
