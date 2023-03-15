@@ -25,27 +25,27 @@
 		}
 		a {
 			 color: whitesmoke;
-			 background: royalblue;
+			 background: black;
 		}
 		a:link {
 			color: whitesmoke;
-			background: royalblue;
+			background: black;
 		}
 		a:visited {
 			color: whitesmoke;
-			background: royalblue;
+			background: black;
 		}
 		a:focus {
 			background: black;
-			color:whitesmoke;
+			color:royalblue;
 		}
 		a:hover {
-			background: darksalmon;
-			color: black;
+			background: palegreen;
+			color: palegoldenrod;
 		}
 		a:active {
 			 background: black;
-			 color:whitesmoke;
+			 color:sandybrown;
 		}
 		details{
 			background: ghostwhite;
@@ -56,8 +56,4 @@
 		summary{
 			background: palegoldenrod;
 			color:sandybrown;
-		}
-		.engA{
-			background: palegreen;
-			color: palegoldenrod;
 		}
