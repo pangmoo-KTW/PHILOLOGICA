@@ -1,6 +1,6 @@
 		@import url('https://fonts.googleapis.com/css2?family=Almendra&family=Hahmlet&display=swap');
 		body{
-			background-color: whitesmoke;
+			background-color: white;
 		}
 		.fontHahmlet{
 			font-family: 'Hahmlet', serif;
@@ -21,7 +21,7 @@
 		.content{
 			font-size:1.5em;
 			color:black;
-			border-top:5px solid royalblue;
+			border:5px solid royalblue;
 		}
 		a {
 			 color: palegreen;
@@ -41,7 +41,7 @@
 		}
 		a:hover {
 			background: palegreen;
-			color: palegoldenrod;
+			color: royalblue;
 		}
 		a:active {
 			 background: black;
