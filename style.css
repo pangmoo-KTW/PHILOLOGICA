@@ -9,6 +9,7 @@
 			border-bottom:5px solid royalblue;
 			padding:20px;
 			background-image:url("cover.gif");
+			background-position: center;
 			color: palegreen;
 			text-align: right;
 		}
