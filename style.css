@@ -23,6 +23,7 @@
 			color:black;
 			background:whitesmoke;
 			border:5px solid royalblue;
+			word-break:break-all;
 		}
 		a {
 			 color: palegreen;
