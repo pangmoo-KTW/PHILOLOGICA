@@ -16,7 +16,7 @@
 			padding:10px;
 			background-color: black;
 			color: palegreen;
-			width:auto;
+			display:inline-block;
 		}
 		footer{
 			background-image:url("cover.gif");
