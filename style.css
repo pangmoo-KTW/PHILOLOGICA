@@ -16,6 +16,7 @@
 			padding:10px;
 			background-color: black;
 			color: palegreen;
+			width:auto;
 			border-bottom:5px solid palegreen;
 		}
 		footer{
@@ -23,6 +24,7 @@
 			background-position:center;
 			border-top:5px solid royalblue;
 			padding:10px;
+			text-align: center;
 		}
 		.content{
 			font-size:1.5em;
