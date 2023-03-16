@@ -10,13 +10,18 @@
 			padding:20px;
 			background-image:url("cover.gif");
 			background-position: center;
-			color: palegreen;
 			text-align: right;
 		}
-		footer{
+		.covertitle{
+			padding:10px;
 			background-color: black;
+			color: palegreen;
+			border-bottom:5px solid palegreen;
+		}
+		footer{
+			background-image:url("cover.gif");
+			background-position:center;
 			border-top:5px solid royalblue;
-			color: whitesmoke;
 			padding:10px;
 		}
 		.content{
