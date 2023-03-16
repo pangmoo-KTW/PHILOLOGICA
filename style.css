@@ -24,7 +24,7 @@
 			background:whitesmoke;
 			border:5px solid royalblue;
 			word-break:break-all;
-			padding:20px;
+			padding:15px;
 		}
 		a {
 			 color: palegreen;
@@ -53,7 +53,7 @@
 		details{
 			background: ghostwhite;
 			border: 5px solid palegreen;
-			padding: 20px;
+			padding: 10px;
 			font-size:0.7em;
 		}
 		summary{
