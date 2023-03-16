@@ -15,8 +15,9 @@
 		.covertitle{
 			padding:10px;
 			background-color: black;
-			color: palegreen;
+			color: royalblue;
 			display:inline-block;
+			border-bottom:5px dotted royalblue;
 		}
 		footer{
 			background-image:url("cover.gif");
