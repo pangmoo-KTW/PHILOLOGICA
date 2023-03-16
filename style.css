@@ -1,14 +1,14 @@
 		@import url('https://fonts.googleapis.com/css2?family=Almendra&family=Hahmlet&display=swap');
 		body{
-			background-color: snow;
+			background-color: black;
 		}
 		.fontHahmlet{
 			font-family: 'Hahmlet', serif;
 		}
 		header{
 			border-bottom:5px solid royalblue;
-			padding:10px;
-			background-color: black;
+			padding:20px;
+			background-image:url("cover.gif");
 			color: palegreen;
 			text-align: right;
 		}
@@ -58,6 +58,6 @@
 		}
 		summary{
 			background: palegoldenrod;
-			color:sandybrown;
+			color:orangered;
 			padding: 20px;
 		}
